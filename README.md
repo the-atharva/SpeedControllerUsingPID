@@ -34,3 +34,10 @@ The pin numbers are not accurate according to footprint.
 <p align="center">
 ![live plotting screenshot](https://github.com/user-attachments/assets/43cd7920-9deb-4ecd-919c-0770c7b4fff8)
 </p>
+
+## Future Scope
+1. Calculate peak overshoot(if any), response time, steady state error etc.\
+2. Auto tune PID controller.\
+3. Implement digital low pass filter.\
+4. Use hall effect sensor instead of IR sensor.\
+5. Make motor rotation bi directional using H bridge.
